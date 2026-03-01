@@ -1,7 +1,7 @@
 # Criação de projeto no github
 ## Este projeto será publicado no GitHub
 
-1. Fiz a pasta na área de trabalho
+1 - Fiz a pasta na área de trabalho
 2. Abri no vscode
 3. Inicializei o git
 4. Criei o READ ME
