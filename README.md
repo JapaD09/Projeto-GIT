@@ -1,4 +1,4 @@
-# Criação de projeto no github
+# Criação do projeto
 ## Este projeto será publicado no GitHub
 
 1. Fiz a pasta na área de trabalho
